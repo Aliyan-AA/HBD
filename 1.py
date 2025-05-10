@@ -8,7 +8,7 @@ import random
 
 # Set page configuration with a festive theme
 st.set_page_config(
-    page_title="Happy Birthday!",
+    page_title="Happy Birthday! Aleezay Aliyan",
     page_icon="🎂",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -331,7 +331,7 @@ with col1:
             <div class="memory-content">
                 <div class="memory-title">Our First Date</div>
                 <div class="memory-date">That wonderful beginning</div>
-                <div class="memory-text">Remember how we laughed the whole evening? That's when I knew you were special.</div>
+                <div class="memory-text">Remember how we laughed the whole day? That's when I knew you were special.</div>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -339,9 +339,9 @@ with col1:
         st.markdown("""
         <div class="memory-card">
             <div class="memory-content">
-                <div class="memory-title">That Summer Vacation</div>
-                <div class="memory-date">Sun, sand, and smiles</div>
-                <div class="memory-text">Walking on the beach at sunset, making plans for our future together.</div>
+                <div class="memory-title">That Wedding day of our relatives</div>
+                <div class="memory-date">Smiles, Day and Night</div>
+                <div class="memory-text">eating, enjoying, Playing and Happy. We were enjoying our life.</div>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -351,8 +351,8 @@ with col1:
         <div class="memory-card">
             <div class="memory-content">
                 <div class="memory-title">Our Wedding Day</div>
-                <div class="memory-date">The day we said "I do"</div>
-                <div class="memory-text">You've never looked more beautiful than the moment you walked down the aisle.</div>
+                <div class="memory-date">It Will Come Soon InshaAllah</div>
+                <div class="memory-text">I Love You Meri Zindagi❤️.</div>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -361,8 +361,8 @@ with col1:
         <div class="memory-card">
             <div class="memory-content">
                 <div class="memory-title">Last Year's Birthday</div>
-                <div class="memory-date">Another year of joy</div>
-                <div class="memory-text">Celebrating you is always my favorite occasion. Here's to another amazing year!</div>
+                <div class="memory-date">I Know I alwasy do blunder</div>
+                <div class="memory-text">I am sorry! for all those sad moments that you faced because of me.</div>
             </div>
         </div>
         """, unsafe_allow_html=True)
